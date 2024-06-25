@@ -14,4 +14,4 @@ This repository contains a machine learning model designed to predict house pric
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/house-price-prediction-model.git
+   git clone https://github.com/SaxenaLakshya/House-Price-Prediction
